@@ -11,4 +11,4 @@ Refactored HTML to use semantic elements
 added alt elements to icons and images
 Added a title to the website 
 Fixed the 'search engine optimization'link
-Website: https://natt-b.github.io/Challenge-1/ 
+# Website: https://natt-b.github.io/Challenge-1/ 
