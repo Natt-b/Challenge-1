@@ -11,4 +11,4 @@ Refactored HTML to use semantic elements
 added alt elements to icons and images
 Added a title to the website 
 Fixed the 'search engine optimization'link
-Website: file:///C:/Users/peech/New%20folder/prework-study-guide/Challenge%201%20on%20the%20job%20ticket/Challenge-1/index.html#search-engine-optimization
+Website: https://natt-b.github.io/Challenge-1/ 
